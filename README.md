@@ -1,5 +1,5 @@
 #solver
-Hỗ trợ fiải hệ ràng buộc
+Hỗ trợ giải hệ ràng buộc
 
 #Yêu cầu
 JDK 8, jeval (http://jeval.sourceforge.net/), Z3 (32 bit/64 bit tùy vào cấu hình máy tính)
