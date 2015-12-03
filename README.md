@@ -3,6 +3,7 @@ Hỗ trợ giải hệ ràng buộc
 
 #Yêu cầu
 JDK 8, jeval (http://jeval.sourceforge.net/), Z3 (32 bit/64 bit tùy vào cấu hình máy tính)
+
 Sản phẩm mới được test trên hệ điều hành win 7 (chưa test trên ubuntu, MAC)
 
 #Cách dùng
